@@ -67,6 +67,8 @@ typings/
 *.njsproj
 *.sln
 *.sw*
+*.swp
+~*
 
 # Parcel related files
 dist/
