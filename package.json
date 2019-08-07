@@ -12,7 +12,7 @@
     "Livescript",
     "Parcel"
   ],
-  "author": "Jamie Popkin (popkinj@littleearth.ca",
+  "author": "Jamie Popkin (popkinj@littleearth.ca)",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^9.1.3",
