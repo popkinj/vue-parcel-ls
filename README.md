@@ -1,23 +1,19 @@
 # Parcel Vue Demo    
 
-A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Stylus and Livescript.
+A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Pug, Stylus and Livescript.
 
 ## :fire: Get Started
 
 ```bash
 git clone git@github.com:proYang/vue-parcel-demo.git
-cd vue-parcel-demo
-npm install
-# or
-yarn install
+cd vue-parcel-ls
+npm i
 ```
 
 ## :building_construction: Development
 
 ```bash
-npm run dev
-# or
-yarn dev
+npm start
 ```
 the application opened `http://127.0.0.1:1234` in the browser default.
 
@@ -25,8 +21,6 @@ the application opened `http://127.0.0.1:1234` in the browser default.
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 the default output directory is `/dist`. You can change the destination in `package.json`.
 
@@ -34,8 +28,6 @@ the default output directory is `/dist`. You can change the destination in `pack
 
 ```bash
 npm run lint
-# or
-yarn lint
 ```
 Linting your code by ESLint.    
 

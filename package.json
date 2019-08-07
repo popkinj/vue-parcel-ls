@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Stylus and Livescript",
   "scripts": {
-    "dev": "parcel ./public/index.html --open",
+    "start": "parcel ./public/index.html --open",
     "build": "parcel build ./public/index.html NODE_ENV=production --no-source-maps --public-url ./public --out-dir ./dist",
     "lint": "eslint --ext .js,.vue src"
   },
