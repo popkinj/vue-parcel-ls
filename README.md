@@ -1,6 +1,6 @@
 # Parcel Vue Demo    
 
-A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router and Less.
+A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Stylus and Livescript.
 
 ## :fire: Get Started
 
