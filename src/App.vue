@@ -4,7 +4,7 @@
 </template>
 
 <script lang="ls">
-  console.log 'yo'
+  'Hello Livescript' |> console.log
 </script>
 
 <style lang="stylus">
