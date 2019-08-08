@@ -1,17 +1,23 @@
-<template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+<template lang='pug'>
+.home
+  img(alt='Vue logo' src='../assets/logo.png')
+  HelloWorld(msg='Welcome to Your Vue.JS App')
 </template>
 
-<script>
-import HelloWorld from '../components/HelloWorld.vue';
+<script lang='ls'>
+#// Livescript doesn't support import or export yet
+#// Version 2.0 will apparently. This allows it to pass
+#// through to Babel.
+``import HelloWorld from '../components/HelloWorld.vue';``
 
+'Home view' |> console.log
+
+``
 export default {
   name: 'home',
   components: {
     HelloWorld,
   },
 };
+``
 </script>
