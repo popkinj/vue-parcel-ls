@@ -1,6 +1,9 @@
 <template lang="pug">
   #app
-    #nav Hey there
+    #nav
+      router-link(to="/") Home
+      router-link(to="/about") About
+    router-view
 </template>
 
 <script lang="ls">
