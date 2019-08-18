@@ -24,13 +24,13 @@
     "vuex": "^3.1.1"
   },
   "devDependencies": {
-    "@vue/component-compiler-utils": "^2.6.0",
+    "@vue/component-compiler-utils": "^3.0.0",
     "babel-core": "^6.26.3",
-    "babel-eslint": "^9.0.0",
+    "babel-eslint": "^10.0.2",
     "babel-preset-env": "^1.7.0",
     "babel-preset-vue": "^2.0.2",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^4.7.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-vue": "^5.2.3",
     "parcel-bundler": "^1.12.3",
     "parcel-plugin-livescript": "^1.1.0",
     "pug": "^2.0.4",
