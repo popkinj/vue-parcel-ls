@@ -1,11 +1,11 @@
 # Parcel Vue Demo    
 
-A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Pug, Stylus and Livescript.
+A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Pug, Stylus and Livescript. Forked from [vue-parcel-demo](https://github.com/proYang/vue-parcel-demo).
 
-## :fire: Get Started
+## Get Started
 
 ```bash
-git clone git@github.com:proYang/vue-parcel-demo.git
+git clone git@github.com:popkinj/vue-parcel-ls.git
 cd vue-parcel-ls
 npm i
 ```
@@ -26,7 +26,7 @@ npm run build
 ```
 the default output directory is `/dist`. You can change the destination in `package.json`.
 
-## :bento: Code Linting
+## Code Linting
 
 ```bash
 npm run lint

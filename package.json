@@ -1,6 +1,6 @@
 {
   "name": "vue-parcel-ls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue demo including Code Splitting, Hot Reloading, ESLint, Vuex, Vue Router, Stylus and Livescript",
   "scripts": {
     "start": "parcel ./public/index.html --open",
