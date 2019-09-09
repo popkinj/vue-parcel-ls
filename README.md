@@ -15,16 +15,16 @@ npm i
 ```bash
 npm start
 ```
-The application opened `http://127.0.0.1:1234` in the browser default.
+The application will open at `http://127.0.0.1:1234` in the browser by default.
 
-Transpiled code for [pug](https://pugjs.org/api/getting-started.html) [stylus](http://stylus-lang.com/) and [livescript](http://livescript.net/) is only located in *App.vue* and *Home.vue*. The rest defaults to CSS, HTML and ES6.
+Transpiled code for [pug](https://pugjs.org/api/getting-started.html), [stylus](http://stylus-lang.com/) and [livescript](http://livescript.net/) is only located in *App.vue* and *Home.vue*. The rest defaults to CSS, HTML and ES6.
 
 ## :rocket: Build
 
 ```bash
 npm run build
 ```
-the default output directory is `/dist`. You can change the destination in `package.json`.
+The default output directory is `/dist`. You can change the destination in `package.json`.
 
 ## Code Linting
 
